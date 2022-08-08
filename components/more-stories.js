@@ -4,7 +4,12 @@ export default function MoreStories({ posts }) {
   return (
     <section>
       <h2 className="mb-8 text-md md:text-4xl leading-tight font-bold">
-        More Projects
+        <a
+          href={`/projects`}
+          className="hover:text-success duration-200 transition-colors p-4 block"
+          >
+          More Projects
+          </a>
       </h2>
       <div className="mb-32">
         {posts.map((post) => (
