@@ -1,0 +1,42 @@
+.markdown {
+  @apply text-lg leading-relaxed text-slate-800;
+}
+
+.markdown p,
+.markdown ul,
+.markdown ol,
+.markdown blockquote {
+  @apply my-6;
+}
+
+.markdown ul {
+  @apply list-disc ml-16 text-slate-500;
+}
+
+.markdown ol {
+  @apply list-decimal ml-16 text-slate-500;
+}
+
+.markdown h2 {
+  @apply text-3xl mt-12 mb-4 leading-snug font-bold /*md:float-left md:w-24; */
+}
+
+.markdown h3 {
+  @apply text-2xl mt-8 mb-4 leading-snug font-bold text-slate-500;
+}
+
+.markdown hr {
+  @apply mt-12;
+}
+
+.markdown p {
+  @apply text-slate-500;
+}
+
+.markdown strong {
+  @apply text-slate-800;
+}
+
+.markdown a {
+  @apply underline text-sky-400 hover:text-sky-800;
+}
