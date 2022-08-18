@@ -1,4 +1,4 @@
-# Product Portfolio Website Template for Product People
+# Portfolio Website for Product Managers
 
 A template product portfolio for sharing great product stories. You can use this template to create, personalize, and deploy your portfolio onto the internet for FREE. 
 
@@ -6,11 +6,16 @@ Check out a live preview of the template portfolio [here](https://product-porfol
 
 This template was created in collaboration with [@nicolemors](https://github.com/nicolemors). The template was developed ontop of the [next.js blog template](https://github.com/timlrx/tailwind-nextjs-starter-blog). The structure of project pages was inspired by [Bart Krawczyk's portfolio](https://www.bartkrawczyk.com/portfolio). Creating a template for product managers was inspired by [@manuarora700](https://github.com/manuarora700) and his work on templatizing a [developer portfolio website](https://github.com/manuarora700/simple-developer-portfolio-website). 
 
+![Preview](/public/assets/preview/portfolio_screenshot.png)
+
 # The structure of the portfolio
 
 The portfolio is built to highlight you and the projects you've worked on and we've kept it dead simple for that purpose. Here are the pages included:
+
 * **Home** Orient your reader to your portfolio with a brief introduction to yourself and links to your recently published projects. You can also include a headshot and a link to download your resume.
+
 * **About** Tell the reader a bit more about yourself and path into product with a fun picture.
+
 * **Projects** The projects you've worked. Each project will have its own page highlighting your role, project execution, challenges and achievements.
 
 Find more information on creating content for your portfolio in the "Create your product manager portfolio website" [blog post]().
@@ -20,7 +25,7 @@ Find more information on creating content for your portfolio in the "Create your
 Make the portfolio your own by personalizing the following components:
 
 ### Favicon
-Choose your own favicon and uploaded it [here](/public/favicons/favicon.ico). An easy way to do this is to grab a [favorite emoji]() as an svg file and then [convert]() it to an .ico file.
+Choose your own favicon and uploaded it [here](/public/favicons/favicon.ico). An easy way to do this is to grab a [favorite emoji](https://www.svgrepo.com/) as an svg file and then [convert](https://convertio.co/) it to an .ico file.
 
 ### Preview image
 Create your own preview image for your portfolio which will appear when your webpage is shared on the internet (e.g. on Slack). You can use the preview image in the template as a starting point and edit to your liking. Replace the old preview with your new file [here](/public/assets/preview/preview.png). 
