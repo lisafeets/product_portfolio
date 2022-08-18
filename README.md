@@ -1,4 +1,4 @@
-# Product Portfolio Website Template Product People
+# Product Portfolio Website Template for Product People
 
 A template product portfolio for sharing great product stories. You can use this template to create, personalize, and deploy your portfolio onto the internet for FREE. 
 
