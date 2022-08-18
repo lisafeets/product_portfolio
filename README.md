@@ -1,4 +1,4 @@
-## Product Portfolio Website Template Product People
+# Product Portfolio Website Template Product People
 
 A template product portfolio for sharing great product stories. You can use this template to create, personalize, and deploy your portfolio onto the internet for FREE. 
 
@@ -17,7 +17,22 @@ Find more information on creating content for your portfolio in the "Create your
 
 # Personalizing your portfolio
 
+Make the portfolio your own by personalizing the following components:
 
+### favicon
+Choose your own favicon and uploaded it [here](/public/favicons/favicon.ico). An easy way to do this is to grab a [favorite emoji]() as an svg file and then [convert]() it to an .ico file.
+
+### preview image
+Create your own preview image for your portfolio which will appear when your webpage is shared on the internet (e.g. on Slack). You can use the preview image in the template as a starting point and edit to your liking. Replace the old preview with your new file [here](/public/assets/preview/preview.png). 
+
+### headshot and about pic
+There are two places to add pictures: on the homepage (file [here](/public/assets/posts/authors/annie.svg)) and the about page (file [here](/public/assets/about/annie.svg)). 
+
+### resume
+Add your updated resume in .pdf format [here](/public/assets/resume/Resume.pdf).
+
+### social media links
+Replace dummy social links with your real ones [here](/components/footer.js).
 
 # Build and Deploy
 
@@ -45,8 +60,6 @@ git push origin
 
 Next, create your Vercel hobby account. Create a new project and connect it to your personal GitHub repo. 
 Vercel will automatically publish your repo to a FREE website hosted by [Vercel](https://vercel.com/) (aka *.vercel.app). If you wish to host your portfolio on a bespoke URL (aka lisafeets.com), you can purchase a domain name through Vercel directly and publish your site there.
-
-
 
 # License
 
