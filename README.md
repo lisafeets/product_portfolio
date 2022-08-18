@@ -19,19 +19,19 @@ Find more information on creating content for your portfolio in the "Create your
 
 Make the portfolio your own by personalizing the following components:
 
-### favicon
+### Favicon
 Choose your own favicon and uploaded it [here](/public/favicons/favicon.ico). An easy way to do this is to grab a [favorite emoji]() as an svg file and then [convert]() it to an .ico file.
 
-### preview image
+### Preview image
 Create your own preview image for your portfolio which will appear when your webpage is shared on the internet (e.g. on Slack). You can use the preview image in the template as a starting point and edit to your liking. Replace the old preview with your new file [here](/public/assets/preview/preview.png). 
 
-### headshot and about pic
+### Headshot and about pic
 There are two places to add pictures: on the homepage (file [here](/public/assets/posts/authors/annie.svg)) and the about page (file [here](/public/assets/about/annie.svg)). 
 
-### resume
+### Resume
 Add your updated resume in .pdf format [here](/public/assets/resume/Resume.pdf).
 
-### social media links
+### Social media links
 Replace dummy social links with your real ones [here](/components/footer.js).
 
 # Build and Deploy
@@ -40,15 +40,21 @@ To get your website up and running start by cloning the GitHub repo to your own 
 
 Next clone the repo locally to your machine so you can make your project edits and other personalization. 
 
-```git clone <repo>```
+```
+git clone <repo>
+```
 
 Once copied locally, install the project modules. 
 
-```npm install```
+```
+npm install
+```
 
 You'll want to preview your changes by running a local development server. 
 
-```npm run dev```
+```
+npm run dev
+```
 
 Once you're happy with the changes you've made push the updates to your master branch.
 
