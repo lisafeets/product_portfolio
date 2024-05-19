@@ -2,7 +2,7 @@
 
 A template product portfolio for sharing great product stories. You can use this template to create, personalize, and deploy your portfolio onto the internet for FREE. 
 
-Check out a live preview of the template portfolio [here](https://product-porfolio.vercel.app/).
+Check out a live preview of the template portfolio [here](https://product-portfolio-example.vercel.app/).
 
 Here's a quick walkthrough of how to copy the repo, make changes to the template and deploy to vercel
 
