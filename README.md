@@ -55,7 +55,7 @@ Once copied locally, install the project modules. 
 npm install
 ```
 
-You'll want to preview your changes by running a local development server. 
+You'll want to preview your changes by running a local development server.
 
 ```
 npm run dev
