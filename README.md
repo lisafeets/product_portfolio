@@ -18,7 +18,7 @@ The portfolio is built to highlight you and the projects you've worked on and we
 
 * **Projects** The projects you've worked. Each project will have its own page highlighting your role, project execution, challenges and achievements.
 
-Find more information on creating content for your portfolio in the "Create your product manager portfolio website" [blog post]().
+Find more information on creating content for your portfolio check out the medium [blog post](https://medium.com/@lisafeets/5827777779a9).
 
 # Personalizing your portfolio
 
