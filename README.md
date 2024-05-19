@@ -4,6 +4,11 @@ A template product portfolio for sharing great product stories. You can use this
 
 Check out a live preview of the template portfolio [here](https://product-porfolio.vercel.app/).
 
+Here's a quick walkthrough of how to copy the repo, make changes to the template and deploy to vercel
+
+[![Watch the video](/public/assets/preview/loom_preview.png)](https://www.loom.com/share/72c83abee4af4591b42940d8b2ff6a17)
+
+
 This template was created in collaboration with [@nicolemors](https://github.com/nicolemors). The template was developed ontop of the [next.js blog template](https://github.com/timlrx/tailwind-nextjs-starter-blog). The structure of project pages was inspired by [Bart Krawczyk's portfolio](https://www.bartkrawczyk.com/portfolio). Creating a template for product managers was inspired by [@manuarora700](https://github.com/manuarora700) and his work on templatizing a [developer portfolio website](https://github.com/manuarora700/simple-developer-portfolio-website). 
 
 ![Preview](/public/assets/preview/portfolio_screenshot.png)
@@ -41,12 +46,14 @@ Replace dummy social links with your real ones [here](/components/footer.js).
 
 # Build and Deploy
 
-To get your website up and running start by cloning the GitHub repo to your own personal GitHub account. This you can do in the GitHub UI.
+To get your website up and running start by creating a new repo from this template using the button on the top right
+
+![Preview](/public/assets/preview/template_button.png)
 
 Next clone the repo locally to your machine so you can make your project edits and other personalization. 
 
 ```
-git clone <repo>
+git clone <your repo address>
 ```
 
 Once copied locally, install the project modules. 
@@ -60,6 +67,8 @@ You'll want to preview your changes by running a local development server.
 ```
 npm run dev
 ```
+
+If you run into any issues try updating the version of node you're using (I use 14.19.1)
 
 Once you're happy with the changes you've made push the updates to your master branch.
 
