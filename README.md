@@ -2,11 +2,11 @@
 
 A template product portfolio for sharing great product stories. You can use this template to create, personalize, and deploy your portfolio onto the internet for FREE. 
 
-Check out a live preview of the template portfolio [here](https://product-portfolio-example.vercel.app/).
+Check out a live preview of the template portfolio [here](https://product-porfolio.vercel.app/).
 
-Here's a quick walkthrough of how to copy the repo, make changes to the template and deploy to vercel
+Here's a quick walkthrough of the structure of the portfolio and what you need to modify to make it your own:
 
-[![Watch the video](/public/assets/preview/loom_preview.png)](https://www.loom.com/share/72c83abee4af4591b42940d8b2ff6a17)
+[![Watch the video](/public/assets/preview/portfolio_tour.png)](https://www.loom.com/share/1ec2c588d3b24cf7aa0dc467b0fec3df)
 
 
 This template was created in collaboration with [@nicolemors](https://github.com/nicolemors). The template was developed ontop of the [next.js blog template](https://github.com/timlrx/tailwind-nextjs-starter-blog). The structure of project pages was inspired by [Bart Krawczyk's portfolio](https://www.bartkrawczyk.com/portfolio). Creating a template for product managers was inspired by [@manuarora700](https://github.com/manuarora700) and his work on templatizing a [developer portfolio website](https://github.com/manuarora700/simple-developer-portfolio-website). 
@@ -45,6 +45,10 @@ Add your updated resume in .pdf format [here](/public/assets/resume/Resume.pdf).
 Replace dummy social links with your real ones [here](/components/footer.js).
 
 # Build and Deploy
+
+Here's a quick walkthrough of how to copy the repo, make changes to the template and deploy to vercel
+
+[![Watch the video](/public/assets/preview/loom_preview.png)](https://www.loom.com/share/72c83abee4af4591b42940d8b2ff6a17)
 
 To get your website up and running start by creating a new repo from this template using the button on the top right
 
