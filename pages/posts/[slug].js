@@ -25,8 +25,8 @@ export default function Post({ post, morePosts, preview }) {
           <PostTitle>Loading…</PostTitle>
         ) : (
           <>
-            <article className="mb-32">
-              <div className="bg-sky-50 pt-16 pb-4">
+            <article className="mb-16">
+              <div className="bg-sky-50 pt-4 pb-2">
                 <Container>
                   <Head>
                     <title>

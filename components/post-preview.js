@@ -12,8 +12,9 @@ export default function PostPreview({
   slug,
 }) {
   return (
-      <div className="grid grid-cols-3 gap-8 md:mb-16">
-        <div className="mb-5">
+    <div className="border-b border-slate-200 last:border-0 pb-8 mb-8">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div>
           <CoverImage
             slug={slug}
             title={title}
@@ -22,7 +23,7 @@ export default function PostPreview({
             width={278}
           />
         </div>
-        <div className="col-span-2">
+        <div className="md:col-span-2">
           <h3 className="text-2xl mb-3 leading-snug font-bold">
             <Link href={`/posts/${slug}`}>
               <a className="hover:underline">{title}</a>
@@ -32,8 +33,8 @@ export default function PostPreview({
             <DateFormatter dateString={date} />
           </div>
           <p className="text-lg leading-relaxed mb-4 text-slate-500">{excerpt}</p>
-          {/* <Avatar name={author.name} picture={author.picture} /> */}
         </div>
       </div>
+    </div>
   )
 }

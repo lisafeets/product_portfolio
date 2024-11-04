@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer className="border-t border-accent-2">
       <Container>
-        <div className="py-28">
+        <div className="py-12">
           <div className="flex justify-center items-center">
             <a className="mx-4" href="https://github.com/">
                 <img alt="github logo" src={"/icons/github-fill.svg"} height={45} width={45} />

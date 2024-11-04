@@ -1,5 +1,5 @@
 .markdown {
-  @apply text-lg leading-relaxed text-slate-800;
+  @apply text-lg leading-relaxed;
 }
 
 .markdown p,
@@ -9,20 +9,16 @@
   @apply my-6;
 }
 
-.markdown ul {
-  @apply list-disc ml-16 text-slate-500;
-}
-
-.markdown ol {
-  @apply list-decimal ml-16 text-slate-500;
+.markdown img {
+  @apply mx-auto max-w-2xl w-full;
 }
 
 .markdown h2 {
-  @apply text-3xl mt-12 mb-4 leading-snug font-bold /*md:float-left md:w-24; */
+  @apply text-3xl mt-12 mb-4 leading-snug;
 }
 
 .markdown h3 {
-  @apply text-2xl mt-8 mb-4 leading-snug font-bold text-slate-500;
+  @apply text-2xl mt-8 mb-4 leading-snug;
 }
 
 .markdown hr {
