@@ -22,10 +22,9 @@ This repo is both:
 
 Before you read anything else:
 
-- 🌐 Live example: https://product-portfolio-example.vercel.app/
-- 🖼 Preview screenshot:  
-  https://github.com/lisafeets/product_portfolio/blob/main/public/assets/preview/portfolio_screenshot.png
-- 🎥 Quick tour of how it works: 
+- 🌐 Explore the example [portfolio](https://product-portfolio-example.vercel.app/)
+
+- 🎥 Checkout a quick [tour](https://www.loom.com/share/1ec2c588d3b24cf7aa0dc467b0fec3df) of how it works: 
 
 [![Watch the video](/public/assets/preview/portfolio_tour.png)](https://www.loom.com/share/1ec2c588d3b24cf7aa0dc467b0fec3df)
 
@@ -58,25 +57,13 @@ Each project gets its own page where you explain:
 
 ## 🚀 Use this as a template for your own portfolio
 
-Once you’ve explored the example and understand the structure, you can use this repo to build your own.
-
-Click **“Use this template”** in the top right of GitHub.
-
-Then follow the walkthrough video here:
-
-[![Watch the video](/public/assets/preview/loom_preview.png)](https://www.loom.com/share/72c83abee4af4591b42940d8b2ff6a17)
-
-
----
-
-## 🎥 Suggested workflow for building your portfolio
+Once you’ve explored the example and understand the structure, you can use this repo to build your own. Start building by:
 
 1. Watch the [tour](https://www.loom.com/share/1ec2c588d3b24cf7aa0dc467b0fec3df) of the example
 2. Write your project stories using the same structure
 3. Copy this repo as a template
 4. Watch the setup [video](https://www.loom.com/share/72c83abee4af4591b42940d8b2ff6a17)
 5. Personalize and deploy
-
 
 You do **not** need to be a strong engineer to use this especially when you can using coding assistants to do the coding work on your behalf. The majority of the work will be in writing up the project stories (AI can even help you there!)
 
