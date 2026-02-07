@@ -29,42 +29,6 @@ Before you read anything else:
 
 [![Watch the video](/public/assets/preview/portfolio_tour.png)](https://www.loom.com/share/1ec2c588d3b24cf7aa0dc467b0fec3df)
 
-Most people who find this repo are looking for inspiration and structure — not code. Start here.
-
----
-
-## 🧠 What this portfolio demonstrates
-
-This portfolio is designed to show:
-
-- How to present product case studies
-- How to use screenshots to tell a product story
-- How to structure a project walkthrough
-- How to clearly explain your role, decisions, and outcomes
-- How to turn product work into a narrative that hiring managers understand quickly
-- How to organize multiple projects into a cohesive story about you
-
-You can browse the live site and directly map this structure onto your own work.
-
----
-
-## 👤 Who this is for
-
-This template is ideal for:
-
-- Product Managers building a portfolio
-- Engineers moving into product
-- Anyone applying to product roles
-- Anyone wondering: *“How do I present my product work?”*
-
-People often find this repo when searching for things like:
-
-> “product manager portfolio example”  
-> “product case study portfolio”  
-> “how to present product work”  
-> “product portfolio github”  
-> “product walkthrough example”
-
 ---
 
 ## 🧩 The structure of the portfolio
@@ -102,12 +66,6 @@ Then follow the walkthrough video here:
 
 [![Watch the video](/public/assets/preview/loom_preview.png)](https://www.loom.com/share/72c83abee4af4591b42940d8b2ff6a17)
 
-This video shows you exactly:
-
-- What to edit
-- Where to put your images
-- How to add your resume and links
-- How to deploy for free to Vercel
 
 ---
 
@@ -119,11 +77,6 @@ This video shows you exactly:
 4. Watch the setup [video](https://www.loom.com/share/72c83abee4af4591b42940d8b2ff6a17)
 5. Personalize and deploy
 
----
-
-## 🛠 Tech stack (for those who care)
-
-Built on the Next.js blog template with Tailwind.
 
 You do **not** need to be a strong engineer to use this especially when you can using coding assistants to do the coding work on your behalf. The majority of the work will be in writing up the project stories (AI can even help you there!)
 
